@@ -1,0 +1,13 @@
+
+@back Restaurant
+@hideUI EntrancesUI
+
+@char Аска.Sad
+Аска: Ну? Ты нашёл сумку?
+Аска: Всё в порядке? Она у тебя?
+@hideUI QuestUI
+@set GameEnded=true
+@set talkedToMyself=false
+@choice "Отдать Аске" goto:Route1
+@choice "Отдать Кирио" goto:Route2
+@choice "Оставить себе" goto:Route3

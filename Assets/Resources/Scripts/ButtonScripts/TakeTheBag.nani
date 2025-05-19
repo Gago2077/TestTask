@@ -1,0 +1,7 @@
+
+@hideUI BagButton
+
+@set hasTheBag=true
+
+@set hasTheKey=false
+@showUI StreetButtonUI

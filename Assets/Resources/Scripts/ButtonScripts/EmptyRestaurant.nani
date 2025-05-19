@@ -1,0 +1,8 @@
+
+@hideUI Entrances
+
+@hideUI EnterCloset
+@hideUI BagButton
+
+@back Restaurant
+@showUI StreetButtonUI

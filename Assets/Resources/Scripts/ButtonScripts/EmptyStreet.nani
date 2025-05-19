@@ -1,0 +1,6 @@
+
+@hideUI StreetButtonUI
+@hideUI BagButton
+@hideUI EnterCloset
+@back Street
+@showUI EntrancesUI

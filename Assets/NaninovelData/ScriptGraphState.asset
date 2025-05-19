@@ -1,0 +1,155 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e98aa4b58b11e9d4ca9dd8a4bf7bb71d, type: 3}
+  m_Name: ScriptGraphState
+  m_EditorClassIdentifier: 
+  NodesState:
+  - scriptName: EmptyStreet
+    position:
+      serializedVersion: 2
+      x: 760
+      y: 0
+      width: 117
+      height: 77
+  - scriptName: Restaurant
+    position:
+      serializedVersion: 2
+      x: 2003
+      y: 0
+      width: 152
+      height: 149
+  - scriptName: LaundryStart
+    position:
+      serializedVersion: 2
+      x: 3036
+      y: 0
+      width: 155
+      height: 125
+  - scriptName: GoToStreet
+    position:
+      serializedVersion: 2
+      x: 449
+      y: -209
+      width: 147
+      height: 125
+  - scriptName: AfterMiniGame
+    position:
+      serializedVersion: 2
+      x: 2885
+      y: 0
+      width: 131
+      height: 77
+  - scriptName: GoToCloset
+    position:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 113
+      height: 77
+  - scriptName: TakeTheBag
+    position:
+      serializedVersion: 2
+      x: 0
+      y: 77
+      width: 117
+      height: 77
+  - scriptName: EmptyLaundry
+    position:
+      serializedVersion: 2
+      x: 2530
+      y: 0
+      width: 129
+      height: 77
+  - scriptName: SelfThoughts
+    position:
+      serializedVersion: 2
+      x: 537
+      y: 75
+      width: 143
+      height: 101
+  - scriptName: Route1
+    position:
+      serializedVersion: 2
+      x: 1684
+      y: 0
+      width: 85
+      height: 77
+  - scriptName: EmptyRestaurant
+    position:
+      serializedVersion: 2
+      x: 1298
+      y: 0
+      width: 144
+      height: 77
+  - scriptName: GoToRestaurant
+    position:
+      serializedVersion: 2
+      x: 1462
+      y: 0
+      width: 202
+      height: 173
+  - scriptName: HappyAskaInRestaurant
+    position:
+      serializedVersion: 2
+      x: 897
+      y: 0
+      width: 182
+      height: 77
+  - scriptName: SadKirioInLaundry
+    position:
+      serializedVersion: 2
+      x: 2360
+      y: 0
+      width: 150
+      height: 77
+  - scriptName: GoToLaundry
+    position:
+      serializedVersion: 2
+      x: 2679
+      y: 0
+      width: 186
+      height: 173
+  - scriptName: HappyKirioInLaundry
+    position:
+      serializedVersion: 2
+      x: 2175
+      y: 0
+      width: 165
+      height: 77
+  - scriptName: Route2
+    position:
+      serializedVersion: 2
+      x: 1789
+      y: 0
+      width: 87
+      height: 77
+  - scriptName: AngryAskaInRestaurant
+    position:
+      serializedVersion: 2
+      x: 1099
+      y: 0
+      width: 179
+      height: 77
+  - scriptName: Route3
+    position:
+      serializedVersion: 2
+      x: 1896
+      y: 0
+      width: 87
+      height: 77
+  - scriptName: Start
+    position:
+      serializedVersion: 2
+      x: -32
+      y: 198
+      width: 74
+      height: 77

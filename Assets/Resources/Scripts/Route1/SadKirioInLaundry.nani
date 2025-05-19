@@ -1,0 +1,6 @@
+
+@back Laundry
+@hideUI EntrancesUI
+@showUI StreetButtonUI
+@char Кирио appearance:Sad
+Кирио: Ты сделал свой выбор...

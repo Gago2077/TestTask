@@ -1,0 +1,7 @@
+@hideChars
+@hidePrinter 
+@if hasToThink
+@goto SelfThoughts
+@hideUI EnterCloset
+@else
+@goto EmptyStreet

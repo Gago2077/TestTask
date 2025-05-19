@@ -1,0 +1,8 @@
+
+@back Laundry
+@hideUI EntrancesUI
+@showUI StreetButtonUI
+
+@char Кирио appearance:Smile
+
+Кирио: Спасибо что решил отдать сумку мне, я этого не забуду.

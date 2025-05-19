@@ -1,0 +1,8 @@
+
+@back Restaurant
+@char Аска appearance:Happy
+ГГ: Вот она. Будь внимательнее в следующий раз.
+Аска: Спасибо! Ты меня спас.
+
+@set AskaHappy=true
+@showUI StreetButtonUI

@@ -1,0 +1,13 @@
+
+@back Street
+@hideUI StreetButtonUI
+Этот выбор не такой простой, как казалось.
+Деньги кому-то действительно могут изменить жизнь...
+Но разве можно просто взять чужое?
+Может, Аска бы и не заметила, если бы я не пошёл...
+
+@hidePrinter 
+@set talkedToMyself=true
+
+@set hasToThink=false
+@goto EmptyStreet

@@ -1,0 +1,8 @@
+@if AskaHappy==true
+@goto HappyAskaInRestaurant
+@elseIf talkedToMyself==true
+@goto Restaurant
+@elseIf GameEnded if:AskaHappy==false
+@goto AngryAskaInRestaurant
+@else
+@goto EmptyRestaurant

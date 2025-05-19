@@ -1,0 +1,16 @@
+@input playerName summary:"Введите имя" play:true
+@stop
+@back Restaurant
+@char Аска.Normal
+
+@char {playerName} id:ГГ visible:false
+Аска: Слушай {playerName}
+ГГ: Да Аска? Что-то случилось?
+
+Аска: Да... Я забыла свою сумку в прачечной...
+Аска: Прости, ты не мог бы сходить за ней? Пожалуйста, это важно.
+
+ГГ: Конечно, без проблем. Подожди здесь.
+
+@showUI QuestUI
+@showUI StreetButtonUI

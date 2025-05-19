@@ -1,0 +1,7 @@
+
+@back Laundry
+
+@hideUI EntrancesUI
+@showUI EnterCloset
+
+@showUI StreetButtonUI

@@ -1,0 +1,8 @@
+
+@if hasTheBag
+@wait 0
+@else if:{hasTheKey==true && hasTheBag==false}
+@hideUI EnterCloset
+@back ClosetNoBag
+@showUI BagButton
+@showUI StreetButtonUI

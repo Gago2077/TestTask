@@ -1,0 +1,9 @@
+
+@if KirioHappy==true
+@goto HappyKirioInLaundry
+@elseIf talkedToKirio==false
+@goto LaundryStart
+@elseIf GameEnded if:KirioHappy==false
+@goto SadKirioInLaundry
+@else
+@goto EmptyLaundry

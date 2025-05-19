@@ -1,0 +1,21 @@
+
+@back Laundry
+@char Кирио.Sad
+
+Кирио: Ладно..
+Кирио: Твоя взяла.
+Кирио: Вот твой ключ.
+
+*Вы взяли ключ*
+
+@set hasTheKey=true
+
+Кирио: Сумка в задней комнате.
+
+@hideChars
+
+@hidePrinter 
+
+@set talkedToKirio=true
+@set hasToThink=true
+@showUI EnterCloset
