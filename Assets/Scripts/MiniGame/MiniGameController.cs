@@ -1,9 +1,12 @@
+using System;
 using UnityEngine;
 using Naninovel;
 
 public class MiniGameController : MonoBehaviour
 {
     [SerializeField] private GameObject miniGameUI;
+
+    
 
     private void OnEnable()
     {
